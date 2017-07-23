@@ -1,4 +1,3 @@
-import {debug} from "util";
 import * as winston from "winston";
 
 const tsFormat = () => (new Date()).toLocaleTimeString();
